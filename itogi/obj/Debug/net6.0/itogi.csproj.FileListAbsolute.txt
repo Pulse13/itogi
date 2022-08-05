@@ -1,0 +1,15 @@
+C:\Users\shelv\Desktop\bootcamp_Prog\itogi\bin\Debug\net6.0\itogi.exe
+C:\Users\shelv\Desktop\bootcamp_Prog\itogi\bin\Debug\net6.0\itogi.deps.json
+C:\Users\shelv\Desktop\bootcamp_Prog\itogi\bin\Debug\net6.0\itogi.runtimeconfig.json
+C:\Users\shelv\Desktop\bootcamp_Prog\itogi\bin\Debug\net6.0\itogi.dll
+C:\Users\shelv\Desktop\bootcamp_Prog\itogi\bin\Debug\net6.0\itogi.pdb
+C:\Users\shelv\Desktop\bootcamp_Prog\itogi\obj\Debug\net6.0\itogi.csproj.AssemblyReference.cache
+C:\Users\shelv\Desktop\bootcamp_Prog\itogi\obj\Debug\net6.0\itogi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shelv\Desktop\bootcamp_Prog\itogi\obj\Debug\net6.0\itogi.AssemblyInfoInputs.cache
+C:\Users\shelv\Desktop\bootcamp_Prog\itogi\obj\Debug\net6.0\itogi.AssemblyInfo.cs
+C:\Users\shelv\Desktop\bootcamp_Prog\itogi\obj\Debug\net6.0\itogi.csproj.CoreCompileInputs.cache
+C:\Users\shelv\Desktop\bootcamp_Prog\itogi\obj\Debug\net6.0\itogi.dll
+C:\Users\shelv\Desktop\bootcamp_Prog\itogi\obj\Debug\net6.0\refint\itogi.dll
+C:\Users\shelv\Desktop\bootcamp_Prog\itogi\obj\Debug\net6.0\itogi.pdb
+C:\Users\shelv\Desktop\bootcamp_Prog\itogi\obj\Debug\net6.0\itogi.genruntimeconfig.cache
+C:\Users\shelv\Desktop\bootcamp_Prog\itogi\obj\Debug\net6.0\ref\itogi.dll
