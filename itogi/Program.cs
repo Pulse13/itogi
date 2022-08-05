@@ -7,5 +7,14 @@ string [] arr = new string [arrSize];
     }
 Console.Write($"[{String.Join("; ", arr)}]");
 
+Console.Write(" ---> [");
+for (int j = 0; j < arrSize; j++)
+{
+    if (arr[j].Length <= 3 )
+    {
+    Console.Write(arr[j] + " ;");
+    }
 
+}
+Console.Write("]");
 
